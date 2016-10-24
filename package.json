@@ -1,0 +1,25 @@
+{
+  "name": "NodeServer",
+  "version": "1.0.0",
+  "description": "connect to servers using the HTTP package",
+  "main": "server.js",
+  "dependencies": {
+    "http": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tygee713/NodeServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tygee713/NodeServer/issues"
+  },
+  "homepage": "https://github.com/tygee713/NodeServer#readme"
+}
